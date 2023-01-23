@@ -18,9 +18,9 @@ local Settings = {
         DOT = true,
         AIRSHOT = true,
         NOTIF = true, 
-        AUTOPRED = false, 
+        AUTOPRED = true, 
         FOV = math.huge,
-        RESOVLER = false 
+        RESOVLER = true 
     }
 }
 
